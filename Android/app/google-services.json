@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392668341226",
+    "firebase_url": "https://rndlock-934d3.firebaseio.com",
+    "project_id": "rndlock-934d3",
+    "storage_bucket": "rndlock-934d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392668341226:android:ddad7a5a917ef1c6",
+        "android_client_info": {
+          "package_name": "com.example.windo.rndlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392668341226-hcfvitcj1v645thqoe26it0e8rca6672.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.windo.rndlock",
+            "certificate_hash": "3a8a4578085839fae2273a19f133f48b6c1c47ec"
+          }
+        },
+        {
+          "client_id": "392668341226-921houcv0dqmugvre38o5hg2195hi10f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxIqqpWRGt8oSotTqxHKjLvQHylRRvnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392668341226-921houcv0dqmugvre38o5hg2195hi10f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
